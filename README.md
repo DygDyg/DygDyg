@@ -6,7 +6,7 @@
 
 
 <picture>
-  <img src="https://raw.githubusercontent.com/DygDyg/DygDyg/output/github-contribution-grid-snake.svg">
+  <img src="https://myreadme.vercel.app/api/embed/DygDyg?panels=userstatistics,toprepositories,toplanguages,commitgraph">
 </picture>
 
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
